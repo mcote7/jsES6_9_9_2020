@@ -24,5 +24,4 @@
 //       'alex'
 //   ]
 //  ]
-//  console.log(names);
-
+//  console.log(names)
