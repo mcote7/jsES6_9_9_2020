@@ -1,4 +1,6 @@
 # jsES6_9_9_2020
 javascript es6 refresher
 
-i am on section 6 template literals 
+https://www.udemy.com/course/leveling-up-to-es6/learn/lecture/8023132#overview
+
+i am on section 9 classes!!!
