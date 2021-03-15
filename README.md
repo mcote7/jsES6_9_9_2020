@@ -3,4 +3,4 @@ javascript es6 refresher
 
 https://www.udemy.com/course/leveling-up-to-es6/learn/lecture/8023132#overview
 
-i am on section 11 symbols!!!
+i @ section 16!!!
